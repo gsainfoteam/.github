@@ -18,5 +18,5 @@
 - Ziggle
 - infoteam IdP
 - Hey, Infoteam (cs)
-- Infopedia
-- icarus project
+- Infopedia (internal service)
+- icarus project (infra)
