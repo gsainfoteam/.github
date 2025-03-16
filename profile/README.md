@@ -1,5 +1,5 @@
 <!-- markdownlint-disable MD041 -->
-![banner](../asset/Infoteam.png)
+![banner](../asset/infoteam.webp)
 
 # Infoteam
 
