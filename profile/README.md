@@ -16,7 +16,25 @@
 ## Projects
 
 - Ziggle
+  - [Web (Next.js)](https://github.com/gsainfoteam/ziggle-fe)
+  - [Groups Web (React.js)](https://github.com/gsainfoteam/groups-fe)
+  - [Server (Nest.js)](https://github.com/gsainfoteam/ziggle-be)
+  - [Groups Server (Nest.js)](https://github.com/gsainfoteam/groups-be)
+  - [App (Flutter)](https://github.com/gsainfoteam/ziggle-flutter)
 - infoteam IdP
+  - [Web (React.js)](https://github.com/gsainfoteam/idp-fe)
+  - [Server (Nest.js)](https://github.com/gsainfoteam/idp-be)
 - Hey, Infoteam (cs)
+  - [Web (React.js)](https://github.com/gsainfoteam/hey-developer-fe)
+  - [Server (Nest.js)](https://github.com/gsainfoteam/hey-developer-be)
 - Infopedia (internal service)
+  - [Docker](https://github.com/gsainfoteam/infopedia)
 - icarus project (infra)
+  - GitOps
+  - IaC (Terraform)
+- bbun finder
+  - [Web (Flutter)](https://github.com/gsainfoteam/bbun-finder-fe)
+  - [Server (Nest.js)](https://github.com/gsainfoteam/bbun-finder-be)
+- Pot G
+  - [Server (Nest.js)](https://github.com/gsainfoteam/potg-be)
+  - [App (Flutter)](https://github.com/gsainfoteam/pot-g-flutter)
