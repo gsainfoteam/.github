@@ -21,7 +21,7 @@
   - [Server (Nest.js)](https://github.com/gsainfoteam/ziggle-be)
   - [Groups Server (Nest.js)](https://github.com/gsainfoteam/groups-be)
   - [App (Flutter)](https://github.com/gsainfoteam/ziggle-flutter)
-- infoteam IdP
+- infoteam account
   - [Web (React.js)](https://github.com/gsainfoteam/idp-fe)
   - [Server (Nest.js)](https://github.com/gsainfoteam/idp-be)
 - Hey, Infoteam (cs)
